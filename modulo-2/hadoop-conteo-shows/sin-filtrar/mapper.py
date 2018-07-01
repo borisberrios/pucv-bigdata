@@ -10,6 +10,8 @@ for line in file:
     band = line.strip().lower()
     bands.add(band)
 
+file.close()
+
 #proceso map
 #por cada linea en el archivos de twitter
 #se verifica si existe alguna de las bandas de la

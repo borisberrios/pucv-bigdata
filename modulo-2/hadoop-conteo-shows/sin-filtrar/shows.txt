@@ -3,19 +3,19 @@ ABBA The Concert
 Ace Frehley
 Action Bronson
 Alan Menken
-Alice Glass 
+Alice Glass
 Almost Queen
 Always and Forever: An Evening of Luther Vandross
 Andrew McMahon
 Animal Kingdom
 Apache
-Apollo Music Café
+Apollo Music Cafe
 Arlo Guthrie
 Arlo GuthrieT
 Arturo O'Farrill
 Assembly of Dust
 Atomic Funk Project
-Bavarian Radio Symphony Orchestra Rossini 
+Bavarian Radio Symphony Orchestra Rossini
 BB King Blues
 Betty
 Big Eyed Phish
@@ -48,13 +48,13 @@ Company of Thieves
 Cornelius
 Cowboy Junkies
 Dagny
-Daniel Jacobs 
+Daniel Jacobs
 Daniil Trifonov
 Dark Star Orchestra
 Dave
 Dave Fields
 Daybreak
-DaybreakBeckett Theatre 
+DaybreakBeckett Theatre
 Dead Flowers Rolling Stones Tribute
 Devon Allman
 Diana Arbenina and the Night Snipers
@@ -70,8 +70,8 @@ Dwarves
 Dweezil Zappa
 Echoes of Sinatra
 Echosmith
-Editors 
-Eleanor Friedberger 
+Editors
+Eleanor Friedberger
 Electric Feel Dance Party
 Electric Wizard
 El Gran Combo
@@ -79,7 +79,7 @@ Emerson String Quartet
 Emmure
 Enrique Bunbury
 Faces In The Crowd Showcase
-Fever Ray 
+Fever Ray
 Forth Wanderers with Hoops
 Freakadelia
 Fu Manchu
@@ -95,7 +95,7 @@ Harlem Gospel Choir
 Hawthorne Heights
 Herb Alpert and Lani Hall
 Hot In Herre: 2000s Dance Party
-Ibibio Sound Machine 
+Ibibio Sound Machine
 In Conversation with Patti Smith
 Jackie Venson
 Jaden Smith
@@ -143,10 +143,10 @@ Made In Brooklyn
 Madeleine Peyroux
 Mahan Esfahani
 Mariachi Festival
-Maria FarantouriCarnegie Hall 
+Maria FarantouriCarnegie Hall
 Marian Hill
 Matt and Kim
-Maurizio PolliniCarnegie Hall 
+Maurizio PolliniCarnegie Hall
 Max Weinbergs Jukebox
 McDonalds Gospelfest
 Memphis Soul
@@ -162,15 +162,15 @@ MoneyBagg Yo
 Monsieur Perine
 Mother's Day Good Music Fest
 Mozart and Bruckner
-Mullett 
-Mya 
+Mullett
+Mya
 My Funny Valentine Marin Mazzie and Jason Danieley
 Natalia Lafourcade
 Natalie Douglas
 New England Symphonic Ensemble
-New Jersey Symphony Orchestra 
+New Jersey Symphony Orchestra
 New York International Music Competition Weill
-New York Philharmonic 
+New York Philharmonic
 New York Philharmonic Debussy and Bartok's
 New York Philharmonic Leif Ove Andsnes
 New York Philharmonic Sleeping Beauty
@@ -206,10 +206,10 @@ Rick Ross
 Rina Sawayama
 Rockin Road to Dublin
 Rocktopia
-Roger McGuinn 
+Roger McGuinn
 Rolling Blackouts Coastal Fever
 Rosario Flores
-Rough Trade 
+Rough Trade
 Roy Woods
 Ruben Studdard
 Rubix Kube
@@ -219,13 +219,13 @@ Scottapalooza
 Scott Sharrard
 Screaming Eagle Band
 Sharkmuffin
-ShinedownSony Hall 
+ShinedownSony Hall
 Sigrid
 Sister Sparrow and the Dirty Birds
 Skooly
 Skream
 Slick Rick
-Slushii 
+Slushii
 Smoke and Sugar
 Smokepurpp
 Snapcase
@@ -233,7 +233,7 @@ Soccer Mommy
 Sophistafunk
 Spring Gala Audra McDonald
 Springsteen On Broadway
-Static and Ben 
+Static and Ben
 Steel Panther
 Steven Wilson
 Sting Atlantic Crossing
@@ -256,7 +256,7 @@ New Mastersounds
 Orchestra Now
 Piano Guys
 Secret Sisters
-Stone Witch 
+Stone Witch
 Stone WitchWestside
 The Weeks
 The Whispers
@@ -270,7 +270,7 @@ Tommy James
 TOSIN
 Trampled By Turtles
 Tribute to Marvin Gaye
-Tricky 
+Tricky
 Trixie Mattel
 Turnstile
 Twin Shadow
@@ -278,7 +278,7 @@ Tyler Bryant
 Unknown Mortal Orchestra
 Violent in Black
 What So Not
-Who's Bad 
+Who's Bad
 Why Dont We
 Will Downing
 Willie Nile
