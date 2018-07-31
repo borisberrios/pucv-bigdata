@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 #directorio in/out
-input_dir=/user/bberrios/twitter/raw/tweets_2018_05_01_00.txt
+input_dir=/user/bberrios/twitter/raw/tweets_2018_05_01_*.txt
 output_dir=/user/bberrios/output/twitter/raw/sin-filtrar
 
 #Eliminar el directori de output
